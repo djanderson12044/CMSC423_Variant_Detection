@@ -1,8 +1,9 @@
 # Any and all necessary documentation is in the README (if there is any)
-
+import math
+import gzip
 import sys
 from Bio import SeqIO
-import json
+import pickle # Writes and reads binary foramt
 
 
 def main():
@@ -23,8 +24,7 @@ def main():
 
 
 # ref: (.fa) file that needs to be indexed.
-# ref_index: (.?)output file to store all the index information
-#   thinking maybe Json
+# ref_index: (.P)output file to store all the index information
 def index(ref, ref_index):
     sa = []  # Suffix Array
 
@@ -42,7 +42,7 @@ def index(ref, ref_index):
     text = list(record.seq)  # made it so that I could add the $ terminal value
     text.append('$')
 
-    return_index = {}  # What we are writing to ref_index using json
+    return_index = {}  # What we are writing to ref_index in binary format using pickle
 
     # Populate Suffix Array
     for x in range(0, len(text)):
@@ -87,27 +87,88 @@ def index(ref, ref_index):
         for x in range(occ[n][-1]):
             fColumn.append(n)
 
-    # Adding to dictionary which is converted to json at the end of the program
+    # Adding to dictionary which is converted to binary at the end of the program
     return_index["name"] = record.id
     return_index["length"] = len(text)
     return_index["sa"] = sa
     return_index["occ"] = occ
     return_index["lColumn"] = lColumn
     return_index["fColumn"] = fColumn
+    return_index["ref"] = record.seq # The entire reference string
 
-    with open(ref_index + ".json", "w") as outfile:
-        json.dump(return_index, outfile)
+    with open(ref_index + ".P", "w+b") as outfile:
+        pickle.dump(return_index, outfile)
         outfile.close()
 
 
 # ref_index: (.?) File from the index definition
 # reads: (.fa)
 # alignments: (.sam)
-def align(ref_index, reads, alignments):  # todo Finish implementing align method
-    print("This is align Speakings")
+# Mapping Algorithm
+def align(ref_index, reads, aligns):  # todo Finish implementing align method
+    ninf = float("-inf")
+    seed_skip = lambda l: math.floor(l / 5.0)
+    gap = 5
 
+    #with gzip.open(reads + '.fa.gz', 'rt') as rfile: # TODO Real file is gziped
+    for read in SeqIO.parse(reads + ".fa", "fasta"):
 
-# Helper Methods
+        alignments = []
+        read_len = len(read.seq)
+        best_score = ninf
+        seed_pos = 0
+        skip = seed_skip(read_len)
+        for seed_start in range(0, read_len, skip):
+            seed_end = min(read_len, seed_start + skip)
+            ##
+            # get_interval takes a string and performs backward search until
+            # either (1) the entire string is matched or (2) the search interval
+            # becomes empty.  The second return value, match_len, is the length of
+            # the query matched in backward search.  If the interval is non-empty
+            # then this is just equal to `skip` above.
+            ##
+            interval, match_len = get_interval(read.seq[seed_start:seed_end], ref_index)
+        '''
+        # given all the places where the seed matches, look for an alignment around it
+        # the ref_positions member of `bwt_index` will return positions on the reference
+        # string corresponding to the *beginning of the read*, assuming there are no gaps
+        # in the alignment before the start of the seed (handling that is why we do fitting
+        # alignment below).
+        for ref_pos in bwt_index.ref_positions(interval, seed_end, match_len):
+            # Perform a "fitting" alignment of the query (seq) into the reference (ref)
+            # the returned alignment object contains the score, the alignment and the
+            # implied position where the query (seq) begins under the alignment.
+            # To perform the fitting alignment, you should "slice out" a region of the
+            # reference around the implied start position (ref_pos) with a bit of padding
+            # (e.g. gap bases) before the first base where the read would start and after
+            # the last base where the read would end.  This will ensure that the fitting_alignment
+            # procedure can find the optimal position for the query within the reference
+            # window that contains it, even if there are insertions or deletions in the read.
+            alignment = fitting_alignment(seq, ref, ref_pos, gap)
+            if alignment.score > best_score:
+                best_score = alignment.score
+                alignments = [alignment]
+            elif alignment.score == best_score:
+                alignments.append(alignment)
+        for a in alignments:
+            write_to_sam(output_file, a)
+        '''
+# Align Helper Methods-----------------------------------------
+
+def get_interval(pattern, ref_index):
+    test = {}
+    with open(ref_index + ".P", "r+b") as infile:
+        test = pickle.load(infile)
+
+    # x is start of interval, y is end of interval
+    x, y = bbwm(test["occ"], test["lColumn"], pattern)
+
+    if x < 0 or y < 0:
+        return (-1, -1), -1
+    else
+        return (x, y), len(pattern)
+
+# Helper Methods----------------------------------------
 
 # Using quick sort algorithm
 # Inspiration: https://medium.com/human-in-a-machine-world/quicksort-the-best-sorting-algorithm-6ab461b5a9d0
@@ -131,6 +192,36 @@ def quicksort(arr, string, l, r):
 
     quicksort(arr, string, l, count - 2)
     quicksort(arr, string, count, r)
+
+
+# Back word searching using the the fm-index
+def bbwm(occ, lc, p):
+    top = 0 # Start of the range
+    bottom = len(lc) - 1 # End of the range
+
+    pattern = list(p)
+
+    # Initializes the count table, which we can query to get the number of characters
+    #  appearing before the character set that we want (in the first column)
+    curr = 0;
+    count_table = {}
+    for x in sorted(occ.keys()):
+        count_table[x] = curr
+        curr += occ[x][-1]
+
+    while top <= bottom:
+        if len(pattern) > 0:
+            symbol = pattern[-1]
+            # removing last letter from pattern
+            pattern.pop()
+
+            if symbol in lc[top: bottom + 1]:
+                top = count_table[symbol] + occ[symbol][top]
+                bottom = count_table[symbol] + occ[symbol][bottom + 1, lc] - 1
+            else:
+                return 0
+        else:
+            return top, bottom
 
 
 # Calls the main() definition
