@@ -1,9 +1,15 @@
 # Any and all necessary documentation is in the README (if there is any)
+
+# TODO Important notes
+# 1. the great python cprofile profiler. It will profile your call stack to let you know, empirically,
+#  how time is being spent in the functions within your program. It might be exactly where you expect, but it might be
+#  somewhere else entirely.
+
 import math
 import gzip
 import sys
 from Bio import SeqIO
-import pickle # Writes and reads binary foramt
+import pickle  # Writes and reads binary foramt
 
 
 def main():
@@ -94,11 +100,13 @@ def index(ref, ref_index):
     return_index["occ"] = occ
     return_index["lColumn"] = lColumn
     return_index["fColumn"] = fColumn
-    return_index["ref"] = record.seq # The entire reference string
+    return_index["ref"] = record.seq  # The entire reference string
 
     with open(ref_index + ".P", "w+b") as outfile:
         pickle.dump(return_index, outfile)
         outfile.close()
+
+    print(record.seq)
 
 
 # ref_index: (.?) File from the index definition
@@ -107,12 +115,12 @@ def index(ref, ref_index):
 # Mapping Algorithm
 def align(ref_index, reads, aligns):  # todo Finish implementing align method
     ninf = float("-inf")
-    seed_skip = lambda l: math.floor(l / 5.0)
+    #seed_skip = lambda l: math.floor(l / 5.0) # TODO Real Seed Skip Function
+    seed_skip = lambda l: math.floor(l / 2.0)
     gap = 5
 
-    #with gzip.open(reads + '.fa.gz', 'rt') as rfile: # TODO Real file is gziped
-    for read in SeqIO.parse(reads + ".fa", "fasta"):
-
+    # with gzip.open(reads + '.fa.gz', 'rt') as rfile: # TODO Real file is gziped
+    for read in SeqIO.parse(reads, "fasta"):
         alignments = []
         read_len = len(read.seq)
         best_score = ninf
@@ -120,21 +128,18 @@ def align(ref_index, reads, aligns):  # todo Finish implementing align method
         skip = seed_skip(read_len)
         for seed_start in range(0, read_len, skip):
             seed_end = min(read_len, seed_start + skip)
-            ##
-            # get_interval takes a string and performs backward search until
-            # either (1) the entire string is matched or (2) the search interval
-            # becomes empty.  The second return value, match_len, is the length of
-            # the query matched in backward search.  If the interval is non-empty
-            # then this is just equal to `skip` above.
-            ##
             interval, match_len = get_interval(read.seq[seed_start:seed_end], ref_index)
-        '''
+
+
         # given all the places where the seed matches, look for an alignment around it
         # the ref_positions member of `bwt_index` will return positions on the reference
         # string corresponding to the *beginning of the read*, assuming there are no gaps
         # in the alignment before the start of the seed (handling that is why we do fitting
         # alignment below).
-        for ref_pos in bwt_index.ref_positions(interval, seed_end, match_len):
+        for ref_pos in ref_positions(interval, seed_end, match_len):
+            pass
+
+        '''
             # Perform a "fitting" alignment of the query (seq) into the reference (ref)
             # the returned alignment object contains the score, the alignment and the
             # implied position where the query (seq) begins under the alignment.
@@ -153,20 +158,36 @@ def align(ref_index, reads, aligns):  # todo Finish implementing align method
         for a in alignments:
             write_to_sam(output_file, a)
         '''
+
+
 # Align Helper Methods-----------------------------------------
 
 def get_interval(pattern, ref_index):
-    test = {}
+    r_index = {}
     with open(ref_index + ".P", "r+b") as infile:
-        test = pickle.load(infile)
+        r_index = pickle.load(infile)
 
     # x is start of interval, y is end of interval
-    x, y = bbwm(test["occ"], test["lColumn"], pattern)
+    x, y = bbwm(r_index["occ"], r_index["lColumn"], pattern)
+
+    print(pattern)
+    print(x, y)
+    print("--------------------------")
+
+    for n in range(x, y + 1):
+        print(n, r_index["ref"][r_index["sa"][n]:])
+
+    print()
 
     if x < 0 or y < 0:
         return (-1, -1), -1
-    else
+    else:
         return (x, y), len(pattern)
+
+
+def ref_positions(interval, seed_end, match_len): # TODO Need to implement
+    return 1, 2
+
 
 # Helper Methods----------------------------------------
 
@@ -195,34 +216,39 @@ def quicksort(arr, string, l, r):
 
 
 # Back word searching using the the fm-index
+# Returns the range of the SA at which the pattern was matched to the reference
 def bbwm(occ, lc, p):
-    top = 0 # Start of the range
-    bottom = len(lc) - 1 # End of the range
+    top = 0  # Start of the range
+    bottom = len(lc) - 1  # End of the range
 
-    pattern = list(p)
+    pattern = list(p)  # Seed that we are matching against the reference
 
     # Initializes the count table, which we can query to get the number of characters
     #  appearing before the character set that we want (in the first column)
-    curr = 0;
+    curr = 1;
     count_table = {}
+    count_table['$'] = 0  # Not stored in occ so we have to add it
     for x in sorted(occ.keys()):
         count_table[x] = curr
         curr += occ[x][-1]
 
     while top <= bottom:
         if len(pattern) > 0:
-            symbol = pattern[-1]
-            # removing last letter from pattern
-            pattern.pop()
+            symbol = pattern.pop()
 
             if symbol in lc[top: bottom + 1]:
-                top = count_table[symbol] + occ[symbol][top]
-                bottom = count_table[symbol] + occ[symbol][bottom + 1, lc] - 1
+                top = count_table[symbol] + (occ[symbol][top - 1] if top != 0 else 0)
+                bottom = count_table[symbol] + occ[symbol][bottom] - 1
             else:
-                return 0
+                return -1, -1
         else:
             return top, bottom
+    return -1, -1
 
 
 # Calls the main() definition
 main()
+
+# Command Line parameters
+# "index" "test_ref.fa" "ref_index"
+# "align" "ref_index" "reads_simple_copy.fa" "alignments"
