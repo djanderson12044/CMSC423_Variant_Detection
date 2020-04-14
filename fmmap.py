@@ -1,16 +1,11 @@
 # Any and all necessary documentation is in the README (if there is any)
 
-# TODO Important notes
-# 1. the great python cprofile profiler. It will profile your call stack to let you know, empirically,
-#  how time is being spent in the functions within your program. It might be exactly where you expect, but it might be
-#  somewhere else entirely.
-
 import math
 import gzip
 import sys
 from Bio import SeqIO
-import pickle  # Writes and reads binary foramt
-
+import pickle  # Writes and reads binary format
+import pysam # Don't actually use it
 
 def main():
     # Just some basic input checking
@@ -107,23 +102,24 @@ def index(ref, ref_index):
         outfile.close()
 
 
-
-
 # ref_index: (.?) File from the index definition
 # reads: (.fa)
 # alignments: (.sam)
 # Mapping Algorithm
 def align(ref_index, reads, aligns):  # todo Finish implementing align method
     ninf = float("-inf")
-    #seed_skip = lambda l: math.floor(l / 5.0) # TODO Real Seed Skip Function
-    seed_skip = lambda l: math.floor(l / 2.0)
-    gap = -2 # I think must be the same as the insertion/deletion cost that we have
+    seed_skip = lambda l: math.floor(l / 5.0) # TODO Real Seed Skip Function
+    gap = -2  # Cost for insertion/
+
+    # File we are writing to inplace of the sam formatted file
+    output = open(aligns + ".txt", "w")
 
     r_index = {}
     with open(ref_index + ".P", "r+b") as infile:
         r_index = pickle.load(infile)
 
-    # with gzip.open(reads + '.fa.gz', 'rt') as rfile: # TODO Real file is gziped
+    # Include and indent if trying to read from a gzipped file
+    #with gzip.open(reads + '.fa.gz', 'rt') as rfile: # TODO Real file is gziped
     for read in SeqIO.parse(reads, "fasta"):
         alignments = []
         read_len = len(read.seq)
@@ -135,28 +131,30 @@ def align(ref_index, reads, aligns):  # todo Finish implementing align method
         for seed_start in range(0, read_len, skip): # TODO need to put this back
             seed_end = min(read_len, seed_start + skip) # offset of the read where the seed ends.
 
-            interval, match_len = get_interval(read.seq[seed_start:seed_end], ref_index)
+            interval, match_len = get_interval(read.seq[seed_start:seed_end], ref_index, r_index["occ"], r_index["lColumn"])
 
             for ref_pos in ref_positions(interval, seed_end, match_len, q_len, r_index["sa"]):
                 alignment = fitting_alignment(read.seq, r_index["ref"], ref_pos, gap)
-                if alignment["score"] > best_score: # TODO Need to implement this. Also think about bound exceptions
+                if alignment["score"] > best_score: #
                     best_score = alignment["score"]
                     alignments = [alignment]
                 elif alignment["score"] == best_score:
                     alignments.append(alignment)
             for a in alignments:
-                print(a)
+                output.write("read_name:" + read.id + "\r\n")
+                output.write("Query: " + "".join(read.seq) + "\r\n")
+                output.write("Cigar:" + a["cigar"] + "\r\n")
+                output.write("Score:" + str(a["score"]) + "\r\n")
+                output.write("Position in Ref: " + str(a["position"]) + "\r\n")
+                output.write("-------------------------------\r\n")
             #    write_to_sam(output_file, a)
+    output.close
 
 
 # Align Helper Methods-----------------------------------------
-def get_interval(pattern, ref_index):
-    r_index = {}
-    with open(ref_index + ".P", "r+b") as infile:
-        r_index = pickle.load(infile)
-
+def get_interval(pattern, ref_index, occ, lcolumn):
     # x is start of interval, y is end of interval
-    x, y = bbwm(r_index["occ"], r_index["lColumn"], pattern)
+    x, y = bbwm(occ, lcolumn, pattern)
 
     if x < 0 or y < 0:
         return (-1, -1), -1
@@ -167,7 +165,7 @@ def get_interval(pattern, ref_index):
 # interval: interval of sa indexes that match exactly with the pattern
 # sed_end: offset of the read where the seed ended
 # match_len: length of the match
-def ref_positions(interval, seed_end, match_len, q_len, sa): # TODO Need to implement
+def ref_positions(interval, seed_end, match_len, q_len, sa):
     positions = []
 
     if match_len > 0:
@@ -259,14 +257,10 @@ def fitting_alignment(seq, ref, ref_pos, gap):
             print("ruh Roh")
 
     cigar = []
-    result["offset"] = max_opt[1]
+    result["position"] = ref_pos - max_opt[1]
     result["cigar"] = "".join(blah)
 
     return result
-
-
-
-
 
 
 # Helper Methods----------------------------------------
@@ -324,12 +318,10 @@ def bbwm(occ, lc, p):
             return top, bottom
     return -1, -1
 
-#cost()
-
 
 # Calls the main() definition
 main()
 
 # Command Line parameters
-# "index" "test_ref.fa" "ref_index"
-# "align" "ref_index" "reads_simple_copy.fa" "alignments"
+# "index" "2019-nCoV.fa" "ref_index"
+# "align" "ref_index" "reads_s1000.fa" "alignments"

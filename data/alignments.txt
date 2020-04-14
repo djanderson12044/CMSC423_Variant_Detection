@@ -1,0 +1,3810 @@
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7944
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18139
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7944
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18139
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7944
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18139
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7942
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15899
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18135
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7944
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18139
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7942
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15899
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18135
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15911
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7952
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11540
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7960
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15915
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7956
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15907
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7948
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11536
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18143
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7958
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15903
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7944
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11532
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18139
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18153
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18155
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15913
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7942
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7954
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15899
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7940
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11528
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18135
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18149
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11546
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18151
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11548
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15909
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7950
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15919
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18147
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11544
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15905
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7946
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15901
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 7942
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11530
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18137
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11534
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18141
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11538
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 15917
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 18145
+-------------------------------
+read_name:simulated.280109
+Query: TTATGTGT
+Cigar:MMMMMMMM
+Score:0
+Position in Ref: 11542
+-------------------------------
